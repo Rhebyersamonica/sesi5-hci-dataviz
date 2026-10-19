@@ -1,0 +1,11 @@
+no,heuristik,terjemahan,pertanyaan_evaluasi,skor_keparahan_evaluator_1,skor_keparahan_evaluator_2,catatan_temuan
+1,Visibility of system status,Visibilitas status sistem,"Apakah pengguna selalu tahu apa yang sedang terjadi (loading, tersimpan, terkirim)?",,,
+2,Match between system and real world,Kesesuaian sistem dengan dunia nyata,"Apakah istilah dan ikon dikenal pengguna, bukan istilah teknis internal?",,,
+3,User control and freedom,Kontrol dan kebebasan pengguna,Apakah ada undo/cancel/pintu keluar yang jelas?,,,
+4,Consistency and standards,Konsistensi dan standar,"Apakah warna, ikon, dan tata letak konsisten dan mengikuti konvensi?",,,
+5,Error prevention,Pencegahan kesalahan,Apakah aksi berisiko diberi konfirmasi atau dibatasi?,,,
+6,Recognition rather than recall,"Mengenali, bukan mengingat",Apakah pengguna tidak dipaksa mengingat informasi dari layar lain?,,,
+7,Flexibility and efficiency of use,Fleksibilitas dan efisiensi,Apakah ada pintasan atau kustomisasi untuk pengguna ahli?,,,
+8,Aesthetic and minimalist design,Desain estetik dan minimalis,Apakah ada elemen yang tidak relevan atau dekoratif berlebihan?,,,
+9,"Help users recognize, diagnose, and recover from errors",Membantu pulih dari kesalahan,"Apakah pesan error jelas, tanpa kode teknis, dan memberi solusi?",,,
+10,Help and documentation,Bantuan dan dokumentasi,"Apakah ada FAQ, pusat bantuan, atau panduan singkat yang mudah dicari?",,,

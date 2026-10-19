@@ -1,0 +1,7 @@
+kode,kebutuhan,terpenuhi,bukti
+F1,Pengguna dapat memilih variabel pengelompokan (filter) minimal 5 pilihan,YA,7 pilihan variabel
+F2,Detail angka muncul saat kursor diarahkan ke batang (details on demand),YA,hovertemplate terpasang pada semua grafik
+F3,Grafik dapat diekspor sebagai gambar,YA,tombol ekspor PNG pada toolbar
+N1,Dashboard selesai dibangun dalam kurang dari 2 detik,YA,0.34 detik
+N2,Semua warna teks dan grafik memenuhi rasio kontras WCAG AA,YA,lihat output/kontras_warna.csv
+N3,"Ukuran file dashboard di bawah batas yang ditetapkan (1 MB mode CDN, 10 MB mode offline)",YA,0.02 MB (batas 1 MB)

@@ -1,0 +1,9 @@
+palet,elemen,warna,latar,rasio,minimum_AA,lulus
+Palet dashboard,Teks utama,#212121,#FFFFFF,16.1,4.5,True
+Palet dashboard,Teks sekunder,#595959,#FFFFFF,7.0,4.5,True
+Palet dashboard,Batang berisiko,#B71C1C,#FFFFFF,6.57,3.0,True
+Palet dashboard,Batang biasa,#757575,#FFFFFF,4.61,3.0,True
+Palet dashboard,Garis rata-rata,#0D47A1,#FFFFFF,8.63,3.0,True
+Contoh buruk,Teks kuning di putih,#FFEB3B,#FFFFFF,1.22,4.5,False
+Contoh buruk,Teks abu muda di putih,#BDBDBD,#FFFFFF,1.88,4.5,False
+Contoh buruk,Batang hijau muda,#A5D6A7,#FFFFFF,1.64,3.0,False
